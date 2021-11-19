@@ -9,10 +9,10 @@ https://chideranewwebapi.herokuapp.com
 
 ENDPOINT URL
 
-GET: https://chideranewwebapi.herokuapp.com/api
-POST: https://chideranewwebapi.herokuapp.com/api
-PUT: https://chideranewwebapi.herokuapp.com/api
-DELETE: https://chideranewwebapi.herokuapp.com/api?productId
+- GET: https://chideranewwebapi.herokuapp.com/api
+- POST: https://chideranewwebapi.herokuapp.com/api
+- PUT: https://chideranewwebapi.herokuapp.com/api
+- DELETE: https://chideranewwebapi.herokuapp.com/api?productId
 
 
 
